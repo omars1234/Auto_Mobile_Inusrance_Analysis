@@ -29,6 +29,3 @@ conda activate EnvAuoInsuranceAnalysis
 pip install -r requirements.txt
 ```
 
-## *Project Structure :*  
-
-![log](Auto_Mobile_Inusrance_Analysis.RoadMap.png)*
