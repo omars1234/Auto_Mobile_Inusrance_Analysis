@@ -18,3 +18,5 @@ nbformat
 graphviz
 pymongo
 mlflow
+IPython
+scikit_posthocs
