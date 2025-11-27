@@ -20,3 +20,4 @@ pymongo
 mlflow
 IPython
 scikit_posthocs
+import_ipynb
